@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
 <h3 align="center">布魯斯的 TypeScript 入門教學</h3>
 <h3 align="center">第十章 - 實時聊天室</h3>
 

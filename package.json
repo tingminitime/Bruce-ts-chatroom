@@ -49,6 +49,7 @@
     "webpack-hot-middleware": "^2.25.3"
   },
   "dependencies": {
+    "dayjs": "^1.11.7",
     "dotenv": "^16.0.3"
   }
 }
